@@ -5,6 +5,7 @@ A Flutter application using clean architecture with BLOC pattern.
 ## Folder Structure
 
 The project follows a structured approach to organize code based on clean architecture principles and BLOC pattern:
+```
 lib/
 ├── data/
 │   ├── models/
@@ -21,7 +22,7 @@ lib/
 │   └── cubits/
 └── injection_container.dart
 └── main.dart
-
+```
 
 ## Dependencies
 
